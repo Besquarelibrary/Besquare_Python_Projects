@@ -10,7 +10,7 @@ import datetime
 def email_service(Receiver_Email, Person_name):
     # Sender's email details
     sender_email = 'sangeethareddy2129@gmail.com'
-    sender_password = 'axivlivjfbqwczau'
+    sender_password = 'app password'
 
     # Recipient's email details
     recipient_email = Receiver_Email
